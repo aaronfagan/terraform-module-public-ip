@@ -5,7 +5,7 @@ A simple module to pull in the local machines public IP address. Currently only 
 Initiate the module:
 ```
 module "public_ip" {
-  source = "git::ssh://git@github.com/aaronfagan/terraform-module-public-ip.git"
+  source = "git::ssh://git@github.com/aaronfagan/terraform-modules.git//public-ip"
 }
 ```
 
