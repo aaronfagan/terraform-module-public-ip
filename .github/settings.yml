@@ -1,7 +1,7 @@
 repository:
   name: terraform-module-public-ip
-  description: Terraform Module - Public IP
-  homepage: 
+  description: "Terraform Module - Public IP"
+  homepage: ""
   default_branch: master
   private: false
   has_issues: true
