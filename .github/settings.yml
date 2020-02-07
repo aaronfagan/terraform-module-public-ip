@@ -1,7 +1,7 @@
 repository:
   name: terraform-module-public-ip
   description: "Terraform Module - Public IP"
-  homepage: ""
+  homepage: "https://www.aaronfagan.ca/"
   default_branch: master
   private: false
   has_issues: true
