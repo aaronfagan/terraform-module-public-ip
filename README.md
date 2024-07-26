@@ -13,6 +13,3 @@ Access the retrieved IP address by referencing the ouput:
 ```
 ${module.public_ip.ipv4}
 ```
-
-# Contributors
-* Aaron Fagan - [Github](https://github.com/aaronfagan), [Website](https://www.aaronfagan.ca/)
